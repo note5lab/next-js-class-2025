@@ -24,17 +24,7 @@ export default async function Home() {
         ))}
 
 
-
-
-
         {/* <input type="text" placeholder="Search" className="p-[16px] pl-[24px] border-gray-500 border-[1px] rounded-[100px] w-[100%]" /> */}
-
-
-
-
-
-
-
         {/* <img className="db rounded-[24px] w-[100%]" src="/img1.png" />
         <img className="db rounded-[24px] w-[100%]" src="/img2.png" /> */}
       </main>
